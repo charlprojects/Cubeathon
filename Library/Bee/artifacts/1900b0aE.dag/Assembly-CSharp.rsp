@@ -384,6 +384,8 @@
 -analyzer:"C:/Program Files/Unity 2023.2.20f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity 2023.2.20f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity 2023.2.20f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/followPlayer.cs"
+"Assets/playerCollision.cs"
 "Assets/PlayerMovement.cs"
 -langversion:9.0
 
