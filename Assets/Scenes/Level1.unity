@@ -483,6 +483,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2014a7e774b809040a3a83691212cc17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  restartDelay: 1
 --- !u!4 &418814069
 Transform:
   m_ObjectHideFlags: 0
@@ -1034,7 +1035,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 1280108187}
-  forwardForce: 8000
+  forwardForce: 8001
   sidewaysForce: 75
 --- !u!114 &1280108189
 MonoBehaviour:
