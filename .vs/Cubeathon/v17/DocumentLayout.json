@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81B85F9C-D3C5-9142-18BD-1AA175F0D473}|Assembly-CSharp.csproj|C:\\Users\\s110409\\source\\repos\\Cubeathon\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81B85F9C-D3C5-9142-18BD-1AA175F0D473}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81B85F9C-D3C5-9142-18BD-1AA175F0D473}|Assembly-CSharp.csproj|c:\\users\\s110409\\source\\repos\\cubeathon\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B85F9C-D3C5-9142-18BD-1AA175F0D473}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81B85F9C-D3C5-9142-18BD-1AA175F0D473}|Assembly-CSharp.csproj|c:\\users\\s110409\\source\\repos\\cubeathon\\assets\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81B85F9C-D3C5-9142-18BD-1AA175F0D473}|Assembly-CSharp.csproj|solutionrelative:assets\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81B85F9C-D3C5-9142-18BD-1AA175F0D473}|Assembly-CSharp.csproj|c:\\users\\s110409\\source\\repos\\cubeathon\\assets\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81B85F9C-D3C5-9142-18BD-1AA175F0D473}|Assembly-CSharp.csproj|solutionrelative:assets\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81B85F9C-D3C5-9142-18BD-1AA175F0D473}|Assembly-CSharp.csproj|C:\\Users\\s110409\\source\\repos\\Cubeathon\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B85F9C-D3C5-9142-18BD-1AA175F0D473}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B85F9C-D3C5-9142-18BD-1AA175F0D473}|Assembly-CSharp.csproj|C:\\Users\\s110409\\source\\repos\\Cubeathon\\assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B85F9C-D3C5-9142-18BD-1AA175F0D473}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B85F9C-D3C5-9142-18BD-1AA175F0D473}|Assembly-CSharp.csproj|C:\\Users\\s110409\\source\\repos\\Cubeathon\\assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B85F9C-D3C5-9142-18BD-1AA175F0D473}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B85F9C-D3C5-9142-18BD-1AA175F0D473}|Assembly-CSharp.csproj|C:\\Users\\s110409\\source\\repos\\Cubeathon\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B85F9C-D3C5-9142-18BD-1AA175F0D473}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +34,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "playerCollision.cs",
-              "DocumentMoniker": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\playerCollision.cs",
-              "RelativeDocumentMoniker": "Assets\\playerCollision.cs",
-              "ToolTip": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\playerCollision.cs",
-              "RelativeToolTip": "Assets\\playerCollision.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T16:58:32.585Z",
+              "WhenOpened": "2026-02-20T17:40:29.68Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T17:12:34.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\Scripts\\Score.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Score.cs",
+              "ToolTip": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\Scripts\\Score.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Score.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T16:46:43.416Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "followPlayer.cs",
-              "DocumentMoniker": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\followPlayer.cs",
-              "RelativeDocumentMoniker": "Assets\\followPlayer.cs",
-              "ToolTip": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\followPlayer.cs",
-              "RelativeToolTip": "Assets\\followPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T16:50:25.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T16:27:14.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "playerCollision.cs",
+              "DocumentMoniker": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\Scripts\\playerCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\playerCollision.cs",
+              "ToolTip": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\Scripts\\playerCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\playerCollision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T17:31:19.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T16:27:11.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "followPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\Scripts\\followPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\followPlayer.cs",
+              "ToolTip": "C:\\Users\\s110409\\source\\repos\\Cubeathon\\Assets\\Scripts\\followPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\followPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T16:27:09.266Z"
             }
           ]
         }
